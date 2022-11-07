@@ -52,7 +52,10 @@ Users can run it on any platform (Linux, Mac OS, Windows etc.) as the only basic
 ### Easy to understand UI
 It has user friendly UI which makes it pretty easy use for everybody including people who are not very good with new technologies.
 
-<img src="placeholder" />
+<img src="images/image.PNG" />
+
+<img src="images/image_1.PNG" />
+<img src="images/image_2.PNG" />
 
 ### Easily executable
 It is pretty easy to execute as we have already seen above in 'Deployment' Section.
