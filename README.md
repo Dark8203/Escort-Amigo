@@ -60,7 +60,13 @@ It has user friendly UI which makes it pretty easy use for everybody including p
 ### Easily executable
 It is pretty easy to execute as we have already seen above in 'Deployment' Section.
 
+## Credits
 
+I have worked on this project along with my team partner.
+Together we have completed this project by complementing each others work.
+```bash
+    Partner Github Id - https://github.com/shubh0614
+```
 
 ## License
 
